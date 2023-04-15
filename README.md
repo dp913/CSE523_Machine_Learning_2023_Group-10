@@ -12,3 +12,10 @@ The results folder contains the screenshots of the outcomes of the machine learn
 The Reports folder contains the mid-semester and end-semester reports and a subfolder named "Weekly Reports".
 
 The Presentation folder contains the mid-semester and end-semester presentations.
+
+Group - 10
+Group members:
+Dev Patel  AU2040056
+Meet Patel AU2040010
+Kush Patel AU2040137
+Vatsal Shah AU2040019
